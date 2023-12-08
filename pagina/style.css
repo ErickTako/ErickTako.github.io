@@ -151,6 +151,11 @@ footer{
     align-content: center;
     justify-content: center;
 }
+.texto{
+    padding: 50px;
+    color: white;
+    text-align: justify;
+}
 
 
 
